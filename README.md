@@ -113,6 +113,8 @@ To sum up, here is the electronical architecture of the prototype:
 
 --
 
+And the final view of the board.
+
 ![](https://github.com/eiithel/PCB_english/blob/master/Images/topi.png)
 
 <center>_Final view_</center>

@@ -73,7 +73,7 @@ In order to pilot 6 RGB LEDs, we need 6*3 = 18 channels. It is out of the questi
 
 <img src="http://www.ti.com/graphics/folders/partimages/TLC5940.jpg" width="250" height="150"/>
 
-You can see a use case here: <https://github.com/eiithel/TLC4950_test>
+You can see a use case here: <https://github.com/WeAreLeka/TLC4950_test>
  
 
 ##**Supplies**

@@ -48,7 +48,7 @@ The __Arietta__ is a little embedded linux system based on a very swift ARM9. (_
 >An Arietta's i2C bus is available on the card to add eventual sensor.   
 
 A simple example of how to communicate beetween Arietta and Teensy :  
-<https://github.com/eiithel/node_Serial>   
+<https://github.com/WeAreLeka/Qt_SerialEvent>   
 I used NodeJS for my tests.
 
 
@@ -65,7 +65,7 @@ Motors PWMs comes from **Timer0** but this timer is already used for **GSCLK** a
 You have to replace this PWMs by Outputs provided by Timer2 which is not used.  
 This Timer is located under the **Teensy** (_pins 25 & 32_).
 
-You can see a use case here: <https://github.com/eiithel/motors_test>
+You can see a use case here: <https://github.com/WeAreLeka/motors_test>
 
 ### **RGB LEDs**
 
